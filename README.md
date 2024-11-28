@@ -1,5 +1,5 @@
 
-# Guess the Number
+# ADIVINA EL NUMERO
 
 Un juego sencillo en JavaFX donde el jugador intenta adivinar un número generado aleatoriamente por la computadora.
 
